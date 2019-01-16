@@ -82,6 +82,15 @@ p {
     font-style: normal;
 }
 
+.modal-title {
+    color: black;
+}
+
+.col-form-label {
+    color: black;
+    float: left;
+}
+
 
 
 .jumbotron-main {
